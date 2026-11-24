@@ -1,0 +1,23 @@
+{
+  "module": "fortnite-fps-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "tuner": {
+      "enabled": true
+    },
+    "lagfix": {
+      "enabled": true
+    },
+    "profiles": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
