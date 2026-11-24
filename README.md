@@ -99,3 +99,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: fortnite-fps-tool, optimizer, fps, build-lag, boost, gaming-tools, performance, windows, fortnite, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+fortnite optimizer fps build-lag boost gaming-tools performance windows fortnite-fps-tool fn-performance fortnite-optimizer windows portable prebuilt x64 free download
+related: fortnite, optimizer, fps, build-lag, boost, gaming-tools, performance, windows
